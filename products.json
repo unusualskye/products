@@ -1,1 +1,34 @@
-
+[
+  {
+    "id": 1,
+    "name": "Product Name",
+    "brand": "Brand Name",
+    "short_description": "A brief one-liner about the product.",
+    "description": "Detailed description about the product, its features, and benefits.",
+    "price": 1999,
+    "currency": "INR",
+    "rating": 4.5,
+    "images": [
+      "https://example.com/image1.jpg",
+      "https://example.com/image2.jpg",
+      "https://example.com/image3.jpg",
+      "https://example.com/image4.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Another Product",
+    "brand": "Another Brand",
+    "short_description": "Quick overview of the product.",
+    "description": "Another product with its own details and images.",
+    "price": 2999,
+    "currency": "INR",
+    "rating": 4.8,
+    "images": [
+      "https://example.com/product2-image1.jpg",
+      "https://example.com/product2-image2.jpg",
+      "https://example.com/product2-image3.jpg",
+      "https://example.com/product2-image4.jpg"
+    ]
+  }
+]
