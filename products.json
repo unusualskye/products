@@ -14,31 +14,28 @@
   },
   {
     "id": 2,
-    "name": "Another Product",
-    "brand": "Another Brand",
-    "short_description": "Quick overview of the product.",
-    "description": "Another product with its own details and images.",
-    "price": 2999,
+    "name": "Amrit Manjari: Modern India",
+    "brand": "PathFinder IAS",
+    "short_description": "Modern Indian History Related.",
+    "description": "A comprehensive guide to Modern Indian History. This book covers the entire Indian National Movement, and entire Modern India. Essential for both Prelims and Mains.",
+    "price": 320,
     "currency": "INR",
     "rating": 4.8,
     "images": [
-      "https://raw.githubusercontent.com/unusualskye/products/refs/heads/main/kainchi.jpeg"
+      "https://raw.githubusercontent.com/unusualskye/products/refs/heads/main/mazri.jpeg"
     ]
   },
     {
-    "id": 2,
-    "name": "Another Product",
-    "brand": "Another Brand",
-    "short_description": "Quick overview of the product.",
-    "description": "Another product with its own details and images.",
-    "price": 2999,
+    "id": 3,
+    "name": "Amrit Sanjeevani: Ancient History",
+    "brand": "PathFinder IAS",
+    "short_description": "Ancient History Questions Series.",
+    "description": "An in-depth analysis of Ancient Indian History. Includes detailed questions, timelines, and critical analysis suitable for analytical questions.",
+    "price": 350,
     "currency": "INR",
     "rating": 4.8,
     "images": [
-      "https://example.com/product2-image1.jpg",
-      "https://example.com/product2-image2.jpg",
-      "https://example.com/product2-image3.jpg",
-      "https://example.com/product2-image4.jpg"
+      "https://raw.githubusercontent.com/unusualskye/products/refs/heads/main/sanjeevani.jpeg"
     ]
   }
 ]
