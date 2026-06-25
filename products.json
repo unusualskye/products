@@ -1,18 +1,15 @@
 [
   {
     "id": 1,
-    "name": "Product Name",
-    "brand": "Brand Name",
-    "short_description": "A brief one-liner about the product.",
-    "description": "Detailed description about the product, its features, and benefits.",
-    "price": 1999,
+    "name": "Amrit Ganga: Medieval History And Culture",
+    "brand": "PathFinder IAS",
+    "short_description": "Simplified Medieval History And Culture. Includes the best questions analysis and practice sets.",
+    "description": "Comprehensive coverage designed specifically for Civil Services aspirants.",
+    "price": 350,
     "currency": "INR",
     "rating": 4.5,
     "images": [
-      "https://example.com/image1.jpg",
-      "https://example.com/image2.jpg",
-      "https://example.com/image3.jpg",
-      "https://example.com/image4.jpg"
+      "https://raw.githubusercontent.com/unusualskye/products/refs/heads/main/gonga.jpeg"
     ]
   },
   {
@@ -25,10 +22,7 @@
     "currency": "INR",
     "rating": 4.8,
     "images": [
-      "https://example.com/product2-image1.jpg",
-      "https://example.com/product2-image2.jpg",
-      "https://example.com/product2-image3.jpg",
-      "https://example.com/product2-image4.jpg"
+      "https://raw.githubusercontent.com/unusualskye/products/refs/heads/main/kainchi.jpeg"
     ]
   },
     {
